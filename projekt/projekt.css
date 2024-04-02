@@ -1,0 +1,33 @@
+body{
+    background-color:#ff8bff ;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content:  space-between;
+    
+}
+.name{
+    color:#183718;
+    margin-top: 20px;
+    font-size: 25px;
+
+}
+h1{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+ 
+}
+.fw-light{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    color: #183718; 
+}

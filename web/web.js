@@ -1,0 +1,2 @@
+gsap.to("p",{text:"I'm a front developer in Zurich. I have serious passion for UX and UI effects, animation and creating intuitive,dynamic user experiences. I learn parallel React.",
+duration:10,ease:"power1.in"})
